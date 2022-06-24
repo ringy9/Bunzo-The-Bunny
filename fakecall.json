@@ -1,0 +1,49 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "1dd229c171c8338c",
+            "max_int": "e47c79b7aaa65d99",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Bunzo the bunny",
+            "photo": "https://i.postimg.cc/ydtvQH0T/FSNy2-WNXw-AE5-E5z.jpg",
+            "voice": "https://ringy9.github.io/Bunzo-The-Bunny/voice.mp4",
+            "video": "https://ringy9.github.io/Bunzo-The-Bunny/vidio1.mp4",
+            "stories": [
+            "https://i.postimg.cc/vm8qDXQ5/6f4be0d38df6af130189b9a29d04f999.jpg",
+"https://i.postimg.cc/Df4CWSKp/bunzo-bunny-phone-wallpaper-thypix-1.jpg",
+"https://i.postimg.cc/RVcXR2hc/bunzo-bunny-phone-wallpaper-thypix-10.jpg",
+"https://i.postimg.cc/QtHfJtKt/bunzo-bunny-phone-wallpaper-thypix-11-394x700.jpg",
+"https://i.postimg.cc/8zNwnwfx/bunzo-bunny-phone-wallpaper-thypix-2.jpg",
+"https://i.postimg.cc/FzSGwBZX/bunzo-bunny-phone-wallpaper-thypix-3-394x700.jpg",
+"https://i.postimg.cc/KvX0tmGG/bunzo-bunny-phone-wallpaper-thypix-8.jpg",
+"https://i.postimg.cc/ydtvQH0T/FSNy2-WNXw-AE5-E5z.jpg",
+"https://i.postimg.cc/7Z9Xv7gh/FT3-Grrx-UUAE7rw-P.jpg",
+"https://i.postimg.cc/MGG5zTDD/hhxKZkR.png"
+               
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/vm8qDXQ5/6f4be0d38df6af130189b9a29d04f999.jpg",
+"https://i.postimg.cc/Df4CWSKp/bunzo-bunny-phone-wallpaper-thypix-1.jpg",
+"https://i.postimg.cc/RVcXR2hc/bunzo-bunny-phone-wallpaper-thypix-10.jpg",
+"https://i.postimg.cc/QtHfJtKt/bunzo-bunny-phone-wallpaper-thypix-11-394x700.jpg",
+"https://i.postimg.cc/8zNwnwfx/bunzo-bunny-phone-wallpaper-thypix-2.jpg",
+"https://i.postimg.cc/FzSGwBZX/bunzo-bunny-phone-wallpaper-thypix-3-394x700.jpg",
+"https://i.postimg.cc/KvX0tmGG/bunzo-bunny-phone-wallpaper-thypix-8.jpg",
+"https://i.postimg.cc/ydtvQH0T/FSNy2-WNXw-AE5-E5z.jpg",
+"https://i.postimg.cc/7Z9Xv7gh/FT3-Grrx-UUAE7rw-P.jpg",
+"https://i.postimg.cc/MGG5zTDD/hhxKZkR.png"
+            ]
+          
+        }
+    ]
+}
